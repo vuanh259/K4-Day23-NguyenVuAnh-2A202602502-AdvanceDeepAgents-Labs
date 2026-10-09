@@ -1,0 +1,4 @@
+# Preserve the exact bytes downloaded from the sandbox on every platform.
+reports/*.md -text
+reports/*.sources.json -text
+reports/*.meta.json -text

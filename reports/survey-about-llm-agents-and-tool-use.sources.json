@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2210.03629",
+    "url": "https://huggingface.co/papers/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2401.06201",
+    "url": "https://huggingface.co/papers/2401.06201",
+    "title": "EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction",
+    "date": "2024-01-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2601.06328",
+    "url": "https://huggingface.co/papers/2601.06328",
+    "title": "ToolGym: an Open-world Tool-using Environment for Scalable Agent Testing and Data Curation",
+    "date": "2026-01-09",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2601.06112",
+    "url": "https://huggingface.co/papers/2601.06112",
+    "title": "ReliabilityBench: Evaluating LLM Agent Reliability Under Production-Like Stress Conditions",
+    "date": "2026-01-03",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2602.20156",
+    "url": "https://huggingface.co/papers/2602.20156",
+    "title": "Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks",
+    "date": "2026-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2604.16706",
+    "url": "https://huggingface.co/papers/2604.16706",
+    "title": "Evaluating Tool-Using Language Agents: Judge Reliability, Propagation Cascades, and Runtime Mitigation in AgentProp-Bench",
+    "date": "2026-04-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2609.35932",
+    "url": "https://arxiv.org/abs/2609.35932",
+    "title": "unknown",
+    "date": "unknown",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2609.36603",
+    "url": "https://arxiv.org/abs/2609.36603",
+    "title": "unknown",
+    "date": "unknown",
+    "source": "arxiv"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "topic": "survey about world model",
+  "model": "openai:gpt-6-luna",
+  "elapsed_s": 164.7,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 2,
+    "task": 4,
+    "read_file": 6,
+    "write_file": 2,
+    "execute": 1
+  },
+  "tokens": {
+    "input": 120830,
+    "output": 4474
+  },
+  "n_sources": 8,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ],
+  "sandbox": "docker",
+  "tokens_scope": "lead only"
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "openai:gpt-6-sol",
+  "elapsed_s": 352.5,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 2,
+    "task": 4,
+    "read_file": 5,
+    "write_file": 2,
+    "execute": 1
+  },
+  "tokens": {
+    "input": 99532,
+    "output": 4713
+  },
+  "n_sources": 8,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ],
+  "sandbox": "docker",
+  "tokens_scope": "lead only"
+}

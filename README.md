@@ -1,5 +1,9 @@
 # Deep Research Agent (Deep Agents + Sandbox)
 
+**Thiết lập API hoặc Ollama + Docker:** xem [LOCAL_SETUP.md](LOCAL_SETUP.md).
+Sau khi thiết lập, chạy `.\.venv\Scripts\python.exe run_all.py` để sinh lần lượt
+đủ 5 báo cáo và tự kiểm tra; script bỏ qua các chủ đề đã hoàn thành hợp lệ.
+
 Lab dựng một **hệ thống deep research đa tác tử**: người dùng chỉ cần nhập một chủ đề (ví dụ `survey about world model`), hệ thống tự lập kế hoạch, giao việc cho nhiều subagent, tìm tài liệu trên arXiv, Hugging Face và web, rồi viết một **báo cáo có trích dẫn**.
 
 Hình thức: **bài thực hành cá nhân**. Ngôn ngữ lập trình: Python 3.11 trở lên.

@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "1811.04551",
+    "url": "https://arxiv.org/abs/1811.04551",
+    "title": "Learning Latent Dynamics for Planning from Pixels",
+    "date": "2019-06-04",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2410.15461",
+    "url": "https://huggingface.co/papers/2410.15461",
+    "title": "EVA: An Embodied World Model for Future Video Anticipation",
+    "date": "2024-10-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2410.18072",
+    "url": "https://huggingface.co/papers/2410.18072",
+    "title": "WorldSimBench: Towards Video Generation Models as World Simulators",
+    "date": "2024-10-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2511.09057",
+    "url": "https://arxiv.org/abs/2511.09057",
+    "title": "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation",
+    "date": "2025-11-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2512.01952",
+    "url": "https://arxiv.org/abs/2512.01952",
+    "title": "GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment",
+    "date": "2025-12-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2505.21996",
+    "url": "https://huggingface.co/papers/2505.21996",
+    "title": "Learning World Models for Interactive Video Generation",
+    "date": "2025-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2608.13552",
+    "url": "https://huggingface.co/papers/2608.13552",
+    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+    "date": "2026-08-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2609.37644",
+    "url": "https://arxiv.org/abs/2609.37644",
+    "title": "Beyond a single latent space: a dual-latent world model for long-horizon planning",
+    "date": "2026-09-29",
+    "source": "web"
+  }
+]

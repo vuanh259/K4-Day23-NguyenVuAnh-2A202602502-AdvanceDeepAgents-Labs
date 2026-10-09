@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2307.04964",
+    "url": "https://huggingface.co/papers/2307.04964",
+    "title": "Secrets of RLHF in Large Language Models Part I: PPO",
+    "date": "2023-07-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2410.15115",
+    "url": "https://huggingface.co/papers/2410.15115",
+    "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+    "date": "2024-10-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2406.06592",
+    "url": "https://huggingface.co/papers/2406.06592",
+    "title": "Improve Mathematical Reasoning in Language Models by Automated Process Supervision",
+    "date": "2024-06-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2609.36641",
+    "url": "https://arxiv.org/abs/2609.36641",
+    "title": "Inducing Process Supervision from Outcome-Only Reinforcement Learning",
+    "date": "2026-09-29",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2605.06850",
+    "url": "https://arxiv.org/abs/2605.06850",
+    "title": "How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment",
+    "date": "2026-05-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2609.35426",
+    "url": "https://arxiv.org/abs/2609.35426",
+    "title": "Frontier Learning: Training LLM Reasoners at the Edge of Capability",
+    "date": "2026-09-28",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2507.04136",
+    "url": "https://huggingface.co/papers/2507.04136",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2025-07-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2507.21848",
+    "url": "https://huggingface.co/papers/2507.21848",
+    "title": "EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity",
+    "date": "2025-07-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2503.11197",
+    "url": "https://huggingface.co/papers/2503.11197",
+    "title": "Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering",
+    "date": "2025-03-14",
+    "source": "hf-search"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "1503.02531",
+    "url": "https://huggingface.co/papers/1503.02531",
+    "title": "Distilling the Knowledge in a Neural Network",
+    "date": "2015-03-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2505.22179",
+    "url": "https://huggingface.co/papers/2505.22179",
+    "title": "Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design",
+    "date": "2025-05-28",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2610.11226",
+    "url": "https://arxiv.org/abs/2610.11226",
+    "title": "When Lower Reconstruction Loss Hurts: Distributionally Robust Refinement for Low-Bit LLM Quantization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2511.15958",
+    "url": "https://huggingface.co/papers/2511.15958",
+    "title": "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation",
+    "date": "2025-11-20",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2308.10335",
+    "url": "https://huggingface.co/papers/2308.10335",
+    "title": "Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability of Large Language Model Code Generation",
+    "date": "2023-08-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2506.03231",
+    "url": "https://huggingface.co/papers/2506.03231",
+    "title": "NetPress: Dynamically Generated LLM Benchmarks for Network Applications",
+    "date": "2025-06-03",
+    "source": "hf-search"
+  }
+]

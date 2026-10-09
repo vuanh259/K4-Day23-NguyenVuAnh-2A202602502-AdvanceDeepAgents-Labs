@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2204.03458",
+    "url": "https://huggingface.co/papers/2204.03458",
+    "title": "Video Diffusion Models",
+    "date": "2022-04-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2601.17323",
+    "url": "https://huggingface.co/papers/2601.17323",
+    "title": "SkyReels-V3 Technique Report",
+    "date": "2026-01-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2512.23576",
+    "url": "https://huggingface.co/papers/2512.23576",
+    "title": "LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation",
+    "date": "2025-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2610.12459",
+    "url": "https://arxiv.org/abs/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2411.13503",
+    "url": "https://arxiv.org/html/2411.13503v1",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2503.21755",
+    "url": "https://huggingface.co/papers/2503.21755",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "2025-03-27",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "10.5555/3737916.3739955",
+    "url": "http://dl.acm.org/doi/10.5555/3737916.3739955",
+    "title": "T2VSafetyBench: evaluating the safety of text-to-video generative models",
+    "date": "2024-12-10",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2610.12427",
+    "url": "https://arxiv.org/abs/2610.12427",
+    "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]

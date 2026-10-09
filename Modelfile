@@ -1,0 +1,6 @@
+FROM qwen2.5:7b-instruct
+# Local instruction model already installed on this machine; tool calling supported.
+PARAMETER num_ctx 16384
+PARAMETER num_predict 4096
+PARAMETER temperature 0.3
+SYSTEM "You are an evidence-based research assistant. Act using supplied tools, avoid narrating plans, and never invent results."
